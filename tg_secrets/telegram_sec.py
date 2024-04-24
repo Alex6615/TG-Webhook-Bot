@@ -1,0 +1,7 @@
+telegram_token_web = "bot1 token"
+telegram_token_harbor = "bot2 token"
+chatId1 = ""
+chatId2 = ""
+topic_back = ""
+topic_front = ""
+topic_other = ""
